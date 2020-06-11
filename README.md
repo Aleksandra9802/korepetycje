@@ -1,2 +1,1 @@
-# korepetycje.github.io
-strona korepetycje
+korepetycje.github.io
